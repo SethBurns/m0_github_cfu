@@ -5,4 +5,5 @@
 - `git commit -m "This commit will... message"` commits the project to git
 - `git clone <SSH key>` clones (which pulls) a project from github
 - `git push` pushes any changes to GitHub
-
+- `git diff` to see changes made before adding
+- `git status` to see the current status and get some help from terminal
